@@ -30,4 +30,3 @@ Ce script PowerShell permet de désactiver IPv6 sur toutes les cartes réseau d'
 CVE-2024-38063 est une vulnérabilité critique qui permet une exécution de code à distance (RCE) sur les systèmes Windows avec IPv6 activé. Le score CVSS est de 9.8, ce qui en fait une menace majeure pour la sécurité. Pour en savoir plus, consultez les liens suivants :
 - [Bulletin de sécurité Microsoft](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
 - [Enregistrement CVE](https://www.cve.org/CVERecord?id=CVE-2024-38063)
-stions ou des améliorations, n'hésitez pas à soumettre une pull request.
